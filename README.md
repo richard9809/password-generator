@@ -36,7 +36,7 @@ The screenshot below shows the mobile design:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/richard9809/password-generator)
-- Live Site URL: [Add live site URL here](https://friendly-kleicha-a5844e.netlify.app)
+- Live Site URL: [Add live site URL here](https://vermillion-kitten-8921d1.netlify.app)
 
 ## My process
 
